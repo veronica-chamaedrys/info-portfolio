@@ -43,3 +43,28 @@ li a:hover {
 }
 
 <link href="https://fonts.googleapis.com/css?family=Dr+Sugiyama&display=swap" rel="stylesheet"> 
+
+
+.a {
+  text-align: center;
+  padding: 16px;
+  margin: 20px;
+  display: inline-block; 
+
+}
+
+.a a {
+  background-color: #59200f;
+  
+  color: white;
+
+
+
+}
+
+.b {
+  background-color: #59200f;
+  
+  color: white;
+
+}
